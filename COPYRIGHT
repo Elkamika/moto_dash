@@ -1,0 +1,13 @@
+Fuel Dashboard using Motorola C123
+
+Copyright (c) 2026 Michael Randrianantenaina
+All source code in this repository was written by Michael Randrianantenaina
+and is released under the MIT License (see the LICENSE file).
+
+Third-party tools: osmocon (from the OsmocomBB project) is used only as an
+external tool to load the compiled binary into the phone RAM. No OsmocomBB
+source code is included in, or derived into, this repository.
+
+Trademarks: Motorola, Texas Instruments, Calypso, Iota and Sitronix are the
+property of their respective owners. This project is not affiliated with or
+endorsed by any of them.
